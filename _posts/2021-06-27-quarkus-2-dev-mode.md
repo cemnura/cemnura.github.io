@@ -71,7 +71,7 @@ Press [r] to re-run, [v] to view full results, [p] to pause, [h] for more option
 
 ```
 
-The developer, taking a sip of coffee, sees that the tests have ran automatically without even needing to trigger the tests or restart the awesome project.
+The developer, taking a sip of coffee, sees that the tests have run automatically without even needing to trigger the tests or restart the awesome project.
 
 ## **Afternoon**
 
