@@ -39,8 +39,7 @@ The developer, which had forgotten the last state he left his code decides to ru
 
 ```
 Running 0/2. Running: org.acme.awesome.GreetingResourceTest#testHelloEndpoint()
-Running Tests for the first timeWARNING: An illegal reflective access operation has occurred
-WARNING: Illegal reflective access by org.codehaus.groovy.vmplugin.v9.Java9 (file:/Users/cemnura/.m2/repository/org/codehaus/groovy/groovy/3.0.8/groovy-3.0.8.jar) to constructor java.lang.AssertionError(java.lang.String)
+Running Tests for the first time
 2021-06-22 09:05:36,678 ERROR [io.qua.test] (Test runner thread) ==================== TEST REPORT #1 ====================
 2021-06-22 09:05:36,679 ERROR [io.qua.test] (Test runner thread) Test GreetingResourceTest#testHelloEndpoint() failed 
 : java.lang.AssertionError: 1 expectation failed.
