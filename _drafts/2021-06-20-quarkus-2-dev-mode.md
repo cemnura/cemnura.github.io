@@ -8,7 +8,7 @@ permalink: /quarkus-v2/
 
 The upcoming Quarkus 2 release is bringing a new level of Developer Joy.
 Previously, Quarkus developers were enlightened with live reloading witch in itself is a pretty outstanding way to develop a Java microservice.
-Quarkus 2 is bringing the continuous testing which will enable developers to run unit test in a live reloading fashion.
+Quarkus 2 is bringing continuous testing feature which will enable developers to run unit test in a live reloading fashion.
 
 # Morning
 
