@@ -221,7 +221,7 @@ All 3 tests are passing (0 skipped), 1 tests were run in 1562ms.
 
 The developers, previous test were not broken. Therefore, only the additional test was runned.
 
-## Refactoring
+## **Refactoring**
 
 The technical depth has increased due to intense coding sessions. 
 The developer, sees it necessary to do a refactor.
