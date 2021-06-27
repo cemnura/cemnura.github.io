@@ -13,7 +13,7 @@ Quarkus 2 is bringing continuous testing feature which will enable developers to
 # Morning
 
 After his morning routine, the quarkus developer boots his computer and opens his project in his preferable IDE.
-The developer then opens his terminal and
+The developer takes a sip of his coffee and then opens his terminal and
 
 ``./mvnw clean quarkus:dev``
 
