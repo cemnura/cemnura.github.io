@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Day of in a life of a Quarkus Developer"
+title: "A Day in a life of a Quarkus Developer"
 permalink: /quarkus-v2/
 ---
 
